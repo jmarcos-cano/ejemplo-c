@@ -2,4 +2,5 @@
 
 int main(){
     printf("Feliz Cumpleaos\n");
+    return 0;
 }
